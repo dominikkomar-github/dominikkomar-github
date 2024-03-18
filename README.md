@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dominik and I'm a Junior Developer living in London, UK.</h2>
+<h2 align="center">Hi 👋! My name is Dominik and I'm a Junior Developer living in London, UK </h2>
 
 ###
 
