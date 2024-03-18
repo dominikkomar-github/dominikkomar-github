@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="300" width = "500" src="https://media1.tenor.com/m/KG8jAWS0srYAAAAd/jackie.gif"  />
+  <img height="300" width = "1000" src="https://media1.tenor.com/m/KG8jAWS0srYAAAAd/jackie.gif"  />
 </div>
 
 ###
