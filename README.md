@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikkomar-github&show_icons=true&locale=en&layout=compact" alt="dominikkomar-github" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikkomar-github&show_icons=true&locale=en" alt="dominikkomar-github" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikkomar-github&" alt="dominikkomar-github" /></p>
