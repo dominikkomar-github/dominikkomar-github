@@ -68,7 +68,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/dominikkomar-github/dominikkomar-github/output/snake.svg](https://raw.githubusercontent.com/dominikkomar-github/dominikkomar-github/output/snake.svg?token=GHSAT0AAAAAACMXHRUZFM2JFXRIIZ2V36ZCZPYPAPQ)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dominikkomar-github/dominikkomar-github/output/snake.svg" alt="Snake animation" />
 
 ###
 
