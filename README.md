@@ -9,23 +9,6 @@
 ###
 
 <p align="left">I'm a highly motivated junior developer with a strong foundation in computer science and a passion for exploring new technologies. I'm skilled in web development (HTML, CSS, JavaScript) and core programming languages (C#, Python).</p>
-
-###
-
-<h2 align="left">Few Projects</h2>
-
-###
-
-<p align="left">1. Gym Progress Tracker (Python)<br><br>This Python app tracks gym workouts with secure login (bcrypt hashing) and stores data locally (SQLite) for offline use. It lets you add, view, update, and delete workout entries.<br><br>2. Music Player (JavaScript)<br><br>This JavaScript music player features playback controls (play, pause, song selection), visual song display, and progress tracking with a slider and timers. It's built with HTML and CSS for a user-friendly interface.<br><br>3. Doge VR (C#)<br><br>I led a team to build a VR quest system in C# with functional quests (collider-based), designed 3D levels, and used Trello for streamlined project management. I also learned Unity3D, identified and fixed bugs, and contributed to 3D modeling.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominikkomar-github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikkomar-github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=dominikkomar-github&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <div align="center">
@@ -62,6 +45,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+</div>
+
+###
+###
+
+<h2 align="left">Few Projects</h2>
+
+###
+
+<p align="left">1. Gym Progress Tracker (Python)<br><br>This Python app tracks gym workouts with secure login (bcrypt hashing) and stores data locally (SQLite) for offline use. It lets you add, view, update, and delete workout entries.<br><br>2. Music Player (JavaScript)<br><br>This JavaScript music player features playback controls (play, pause, song selection), visual song display, and progress tracking with a slider and timers. It's built with HTML and CSS for a user-friendly interface.<br><br>3. Doge VR (C#)<br><br>I led a team to build a VR quest system in C# with functional quests (collider-based), designed 3D levels, and used Trello for streamlined project management. I also learned Unity3D, identified and fixed bugs, and contributed to 3D modeling.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dominikkomar-github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikkomar-github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=dominikkomar-github&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
