@@ -64,7 +64,7 @@
 
 ###
 
-<h2 align="left">Contact me here!</h2>
+<h2 align="left">Socials!</h2>
 
 ###
 
