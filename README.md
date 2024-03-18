@@ -1,44 +1,49 @@
-<h1 align="center">Hi there, I'm Dominik</h1>
-<h3 align="center">Data Analyst & Aspiring Junior Developer</h3>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-I'm a data enthusiast fueled by Python, passionate about transforming raw data into actionable insights.  I recently tackled an exciting project using Plotly to create an interactive dashboard visualizing London Airbnb listings (check it out in Projects!).  I'm a lifelong learner, always eager to dive into new challenges and collaborate with like-minded individuals.
+###
 
-## Skills & Expertise
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-My expertise lies in leveraging Python to unlock the power of data:
+###
 
-* **Data Analysis:**  Proficient in Python libraries like pandas, NumPy, Matplotlib, and Seaborn.
-* **Machine Learning:**  Familiar with K-Means clustering and Logistic Regression (actively seeking to expand my knowledge in this area!).
-* **Databases & SQL:**  Comfortable querying data using SQL.
-* **Data Visualization:**  Adept at creating clear and informative visualizations to bring data to life.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## Projects
+###
 
-I take pride in tackling real-world data challenges. Here are some highlights:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-1. **Interactive Airbnb Analysis (Plotly):**  This project showcases my data wrangling, manipulation, and interactive dashboard creation skills. I explored and visualized trends in London Airbnb listings using Plotly.  [Link to Repository (if applicable)]
+###
 
-2. **Customer Segmentation with K-Means Clustering:**  By leveraging K-Means clustering in Python, I identified distinct customer segments based on purchasing behavior. This project honed my data wrangling and unsupervised learning capabilities. [Link to Repository (if applicable)]
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-3. **Loan Approval Prediction with Logistic Regression:**  Built a logistic regression model to predict loan approval probabilities. This project strengthened my grasp of feature engineering and supervised learning concepts.  [Link to Repository (if applicable)]
+###
 
-## Learning Journey
+<br clear="both">
 
-The learning never stops!  Currently, I'm expanding my skillset by focusing on:
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-* R Programming
-* Advanced data manipulation techniques with the Pandas library
-
-## Connect with Me
-
-Feel free to reach out!
-
-* [Link to your portfolio website](https://domfolio.netlify.app/) (if applicable)
-* [Link to your LinkedIn profile](https://linkedin.com/in/dominik-komar)
-
-## Stay Curious!
-
-Explore some insights into my coding activity:
-
-* [GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=dominikkomar-github) (if applicable)
-* [GitHub Stats](https://github-readme-stats.vercel.app/api?username=dominikkomar-github&show_icons=true&locale=en)
+###
