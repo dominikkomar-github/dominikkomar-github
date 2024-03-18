@@ -2,7 +2,21 @@
 
 ###
 
+<div align="center">
+  <img height="300" width = "500" src="https://media1.tenor.com/m/KG8jAWS0srYAAAAd/jackie.gif"  />
+</div>
+
+###
+
 <p align="left">I'm a highly motivated junior developer with a strong foundation in computer science and a passion for exploring new technologies. I'm skilled in web development (HTML, CSS, JavaScript) and core programming languages (C#, Python).</p>
+
+###
+
+<h2 align="left">Few Projects</h2>
+
+###
+
+<p align="left">1. Gym Progress Tracker (Python)<br><br>This Python app tracks gym workouts with secure login (bcrypt hashing) and stores data locally (SQLite) for offline use. It lets you add, view, update, and delete workout entries.<br><br>2. Music Player (JavaScript)<br><br>This JavaScript music player features playback controls (play, pause, song selection), visual song display, and progress tracking with a slider and timers. It's built with HTML and CSS for a user-friendly interface.<br><br>3. Doge VR (C#)<br><br>I led a team to build a VR quest system in C# with functional quests (collider-based), designed 3D levels, and used Trello for streamlined project management. I also learned Unity3D, identified and fixed bugs, and contributed to 3D modeling.</p>
 
 ###
 
@@ -14,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -52,7 +66,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/dominik-komar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -62,18 +76,9 @@
   <a href="https://www.twitch.tv/justneroo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dominikkomar-github/dominikkomar-github/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <a href="dominik.komar7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
