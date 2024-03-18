@@ -6,8 +6,6 @@
   <img height="350" width = "800" src="https://media1.tenor.com/m/IeXeDuvMYPEAAAAd/no.gif"  />
 </div>
 
-###
-
 <p align="left">I'm a highly motivated junior developer with a strong foundation in computer science and a passion for exploring new technologies. I'm skilled in web development (HTML, CSS, JavaScript) and core programming languages (C#, Python).</p>
 ###
 
