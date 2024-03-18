@@ -73,8 +73,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://domfolio.netlify.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/726/726056.png" height="35" alt="Portfolio logo" />
-    Portfolio Website
+    <img src="https://png.pngtree.com/png-vector/20220420/ourmid/pngtree-stylish-gradient-portfolio-logo-vector-icon-representing-single-web-icon-for-portfolio-vector-png-image_45312598.jpg" height="35" alt="Portfolio logo" />
   </a>
   <a href="https://codepen.io/dominikkomar-github" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
