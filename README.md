@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">A passionate Junior Developer</h3>
 Junior Developer | Python Enthusiast | Lifelong Learner
----------------------------------------------------
 
-
-👋 Hi there! I’m Ali, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. 
+👋 Hi there! I’m Dominik, an aspiring junior developer with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. 
 
 **About Me** 🎓 
 
@@ -15,10 +13,10 @@ I hold a degree in Computer Science with a focus on data analytics.
 
 **Projects** 
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
+1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behaviour. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
    
-3. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-4. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
+3. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handling missing data. We achieved an accuracy of 82% on the test set.
+4. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighbourhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighbourhoods. 
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [training.justit@gmail.com](mailto:training.justit@gmail.com)
