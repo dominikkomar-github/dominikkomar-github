@@ -9,7 +9,7 @@
 ###
 
 <p align="left">I'm a Python enthusiast and aspiring developer!
- I have a strong foundation in computer science and a passion for exploring new technologies. While I'm skilled in web development (HTML, CSS, JavaScript) and core programming languages (C#), my heart truly lies in Python.  I'm eager to leverage my skills and pursue a career that allows me to delve deeper into the world of Python and its vast applications.</p>
+I have a strong foundation in computer science and a passion for exploring new technologies. While I'm skilled in simple web development (HTML, CSS) and core programming languages (C#), my heart truly lies in Python.  I'm eager to leverage my skills and pursue a career that allows me to delve deeper into the world of Python and its vast applications.</p>
 
 ###
 
@@ -47,12 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dominikkomar-github/count.svg?"  />
 </div>
 
 ###
